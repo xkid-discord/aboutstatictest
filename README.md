@@ -1,5 +1,5 @@
 
-# About fart - The a clone of a clone, truley the best proccy!
+# About fart - The clone of a much better proxy aboutproxy, but this is truley the best proccy!
 
 Anyways its a static chrome-brower like proxy, works for any static page hosting, to add a custom bare modify the uv config. 
 
