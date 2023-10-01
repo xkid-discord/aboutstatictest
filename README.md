@@ -5,6 +5,7 @@ Anyways its a static chrome-brower like proxy, works for any static page hosting
 
 ### Uses Ultraviolet & tompHTTP, might add dynamic support idk just depends if anyone actually ever uses this.
 
+Currently using ths bare server 'https://geoquiz.gq/bare/' since im not hosting my own for this.
 Since it does not require a nodeJS server this will work for all sorts of free hosting like netlify, cloudflare pages, etc! if you get any sort of connection issues change the bare server to a different one, heres a few extras:
 - https://uv.radon.games/
 - https://tomp.app/
