@@ -3,6 +3,8 @@
 
 Anyways its a static chrome-brower like proxy, works for any static page hosting, to add a custom bare modify the uv config. 
 
+DEMO URL: https://aboutstatic.pages.dev/
+
 ### Uses Ultraviolet & tompHTTP, might add dynamic support idk just depends if anyone actually ever uses this.
 
 Currently using ths bare server 'https://geoquiz.gq/bare/' since im not hosting my own for this.
